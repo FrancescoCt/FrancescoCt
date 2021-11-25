@@ -6,7 +6,7 @@
 ### Francesco Catania
 I'm Francesco from Italy and I currently am an IT Engineering student at University of Catania.\
 As a personal hobby, I really enjoy studying Machine Learning and tasks automation with Python as well as Web Development in HTML and CSS.\
-You can check out my Linkedin profile at https://www.linkedin.com/in/francesco-catania-6168451bb/
+You can check out my profile on [Linkedin](https://www.linkedin.com/in/francesco-catania-6168451bb/) or [Instagram](https://www.linkedin.com/in/francesco-catania-6168451bb/)
 
 ### My Github Activity
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrancescoCt)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,7 +22,7 @@ You can check out my Linkedin profile at https://www.linkedin.com/in/francesco-c
 * 📙 JavaScript
 * 📒 C
 
-## Examples of work
+## Some of my works
 * ### Road To Kamchatka
 <img style="border-radius:50%" src="https://github.com/FrancescoCt/FrancescoCt/blob/main/carro.gif" width="256"/>
 
