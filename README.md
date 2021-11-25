@@ -24,12 +24,15 @@ You can check out my Linkedin profile at https://www.linkedin.com/in/francesco-c
 
 ## Examples of work
 * ### Road To Kamchatka
-<img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/carro.gif" width="256"/>
+<img style="border-radius:50%" src="https://github.com/FrancescoCt/FrancescoCt/blob/main/carro.gif" width="256"/>
 
 ## Contacts
-<p align="center" >
-<img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/linkedin.png" width="50" />
-<img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/instagram.png" width="50" />
+
+<p align="center"  >
+  <a href="www.google.com" style='margin:50px; padding:10px'><img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/linkedin.png" width="40" /></a>
+  <!--&nbsp-->
+  &emsp;
+  <a href="www.google.com" style='margin:50px; padding:10px'><img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/instagram.png" width="40" /></a>
 </p>
 <!--
 **FrancescoCt/FrancescoCt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
