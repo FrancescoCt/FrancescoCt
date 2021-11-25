@@ -22,6 +22,15 @@ You can check out my Linkedin profile at https://www.linkedin.com/in/francesco-c
 * 📙 JavaScript
 * 📒 C
 
+## Examples of work
+* ### Road To Kamchatka
+<img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/carro.gif" width="256"/>
+
+## Contacts
+<p align="center" >
+<img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/linkedin.png" width="50" />
+<img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/instagram.png" width="50" />
+</p>
 <!--
 **FrancescoCt/FrancescoCt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
