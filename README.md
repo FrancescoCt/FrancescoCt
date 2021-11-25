@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Francesco Catania
+
+## Python development
+![Design and Development](https://github.com/FrancescoCt/RoadToKamchatka/gameOver.png)
+
+I'm Francesco from Italy and I currently am an IT Engineering student at University of Catania.\
+As a personal hobby, I really enjoy studying Machine Learning and tasks automation with Python as well as Web Developing in HTML and CSS.\
+You can check out my Linkedin profile at https://www.linkedin.com/in/francesco-catania-6168451bb/
+<!--Stats -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrancescoCt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FrancescoCt/FrancescoCt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
