@@ -23,7 +23,9 @@ You can check out my profile on [Linkedin](https://www.linkedin.com/in/francesco
 * 📒 C
 
 ## Some of my works
-* ### Road To Kamchatka
+* ### [YouTube Parser](https://github.com/FrancescoCt/Youtube)
+<img style="border-radius:50%" src="https://github.com/FrancescoCt/Youtube/blob/main/icons/youtube.png" width="256"/>\
+* ### [Road To Kamchatka](https://github.com/FrancescoCt/RoadToKamchatka)
 <img style="border-radius:50%" src="https://github.com/FrancescoCt/FrancescoCt/blob/main/carro.gif" width="256"/>
 
 ## Contacts
