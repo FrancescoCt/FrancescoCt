@@ -1,6 +1,6 @@
 # Hi there 👋, Francesco Catania
 
-## A brief introduction
+## _A brief introduction_
 ![Design and Development](https://github.com/FrancescoCt/RoadToKamchatka/blob/main/gameOver.png)
 
 ### Francesco Catania
@@ -13,14 +13,14 @@ You can check out my profile on [Linkedin](https://www.linkedin.com/in/francesco
 
 ## Skills and Experience
 
-* 🐍 Python
-* ☕ Java
-* 📅 MySQL
-* 📶 PHP
-* 📕 HTML
-* 📗 CSS
-* 📙 JavaScript
-* 📒 C
+* Python <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/python.png" width="20"/>
+* Java <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/java.png" width="20"/>
+* MySQL <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/mysql.png" width="20"/>
+* PHP <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/php.png" width="20"/>
+* HTML <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/html.png" width="20"/>
+* CSS <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/css.png" width="20"/>
+* JavaScript <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/javascript.png" width="20"/>
+* C <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/c.png" width="20"/>
 
 ## Some of my works
 * ### [YouTube Parser](https://github.com/FrancescoCt/Youtube)
