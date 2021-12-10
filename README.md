@@ -13,7 +13,7 @@ You can check out my profile on [Linkedin](https://www.linkedin.com/in/francesco
 
 ## Skills and Experience
 
-* Python <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/python.png" width="20"/>
+* Python <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/python.png" style="margin-top:10px" width="20"/>
 * Java <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/java.png" width="20"/>
 * MySQL <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/mysql.png" width="20"/>
 * PHP <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/php.png" width="20"/>
@@ -23,10 +23,14 @@ You can check out my profile on [Linkedin](https://www.linkedin.com/in/francesco
 * C <img src="https://github.com/FrancescoCt/FrancescoCt/blob/main/c.png" width="20"/>
 
 ## Some of my works
-* ### [YouTube Parser](https://github.com/FrancescoCt/Youtube)
-<img style="border-radius:50%" src="https://github.com/FrancescoCt/Youtube/blob/main/icons/youtube.png" width="256"/>\
-* ### [Road To Kamchatka](https://github.com/FrancescoCt/RoadToKamchatka)
+* ### [YouTube Parser](https://github.com/FrancescoCt/Youtube)📽
+<img src="https://media4.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif?cid=ecf05e47sip3hhimomekvcpo9ncqcq6pi23zwjg53ytdiboh&amp;rid=giphy.gif&amp;ct=g" style="width: 256px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">
+
+* ### [Road To Kamchatka](https://github.com/FrancescoCt/RoadToKamchatka)🕹
 <img style="border-radius:50%" src="https://github.com/FrancescoCt/FrancescoCt/blob/main/carro.gif" width="256"/>
+
+* ### [Web Designs Collection](https://github.com/FrancescoCt/Web_Designs)⚜
+<img class="giphy-gif-img giphy-img-loaded" src="https://media2.giphy.com/media/xTiTnBHZGDu75XXUd2/200.gif?cid=ecf05e47bay428cqg9r3j5ekpixnivag99c0b6csdefabmqu&amp;rid=200.gif&amp;ct=g" width="248" height="186" style="background: rgb(255, 102, 102);">
 
 ## Contacts
 
