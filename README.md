@@ -24,7 +24,7 @@ You can check out my profile on [Linkedin](https://www.linkedin.com/in/francesco
 
 ## Some of my works
 
-| Name  | Description |Image
+| Project  | Description |Image
 | --- | --- | ---|
 | [YouTube Parser](https://github.com/FrancescoCt/Youtube)📽 |A brief collection of programs that manipulate audio-video content coming from Youtube with Python libraries.|<img src="https://media4.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif?cid=ecf05e47sip3hhimomekvcpo9ncqcq6pi23zwjg53ytdiboh&amp;rid=giphy.gif&amp;ct=g" style="width: 256px; height: 281.25px; left: 0px; top: 0px; opacity: 0;">|
 | [Road To Kamchatka](https://github.com/FrancescoCt/RoadToKamchatka)🕹 | 2D-Game with elementary movement and collision mechanics.|<img style="border-radius:50%" src="https://github.com/FrancescoCt/FrancescoCt/blob/main/carro.gif" width="256"/> |
