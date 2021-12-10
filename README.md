@@ -1,7 +1,7 @@
 # Hi there 👋, Francesco Catania
 
 ## _A brief introduction_
-![Design and Development](https://github.com/FrancescoCt/RoadToKamchatka/blob/main/gameOver.png)
+![Design and Development](https://github.com/FrancescoCt/RoadToKamchatka/blob/main/images/gameOver.png)
 
 ### Francesco Catania
 I'm Francesco from Italy and I currently am an IT Engineering student at University of Catania.\
