@@ -31,6 +31,10 @@ Start2Impact - Back End Development Master
 * .NET
 * NodeJS
 
+### Scripts
+* Powershell
+* Bash
+
 ### Others
 * ThreeJs
 
