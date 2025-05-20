@@ -1,6 +1,6 @@
 # Francesco
 
-DIEEI, Unict - IT Engineer\
+DIEEI, Unict - Bachelor degree IT Engineering\
 Deda - Software Developer\
 Start2Impact - Back End Development Master
 
