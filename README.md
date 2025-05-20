@@ -37,6 +37,8 @@ Start2Impact - Back End Development Master
 
 ### Others
 * ThreeJs
+* Express
+* SQLServerManager
 
 
 ### My Github Activity
