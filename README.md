@@ -14,6 +14,8 @@ Start2Impact - Back End Development Master
 * MySQL
 * HTML, CSS
 * PHP
+* TypeScript
+* React
 
 ### Other
 * VsCode
