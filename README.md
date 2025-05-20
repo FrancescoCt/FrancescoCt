@@ -38,7 +38,10 @@ Start2Impact - Back End Development Master
 ### Others
 * ThreeJs
 * Express
+* Mocha Test
 * SQLServerManager
+* Oracle VM
+* Windows Subsystem Linux (WSL)
 
 
 ### My Github Activity
