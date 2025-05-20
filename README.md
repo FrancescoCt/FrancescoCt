@@ -17,16 +17,21 @@ Start2Impact - Back End Development Master
 * TypeScript
 * React
 
-### Other
+### Editors
 * VsCode
 * Visual Studio
 * NetBeans
 * IntelliJ
 * Eclipse
+
+### Frameworks
+
 * Wordpress
 * Xampp
 * .NET
 * NodeJS
+
+### Others
 * ThreeJs
 
 
