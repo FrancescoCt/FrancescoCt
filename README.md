@@ -1,11 +1,39 @@
-# Hello World
-DIEEI - Unict\
-Ingegnere Informatico
+# Francesco
+
+DIEEI, Unict - IT Engineer\
+Deda - Software Developer\
+Start2Impact - Back End Development Master
+
+### Programming languages
+* Javascript
+* Java
+* C#
+* C
+* Python
+* Ruby
+* MySQL
+* HTML, CSS
+* PHP
+
+### Other
+* VsCode
+* Visual Studio
+* NetBeans
+* IntelliJ
+* Eclipse
+* Wordpress
+* Xampp
+* .NET
+* NodeJS
+* ThreeJs
+
 
 ### My Github Activity
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrancescoCt)](https://github.com/FrancescoCt)\
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrancescoCt)](https://github.com/FrancescoCt)\-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoCt)](https://github.com/FrancescoCt)
 
+### Portfolio
+Have a look at my projects in [portfolio](https://francescoct.github.io/) section!
 <!--## Some of my works
 
 | Project  | Description |Image
